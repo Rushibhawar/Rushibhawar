@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushibhawar&label=Profile%20views&color=0e75b6&style=flat" alt="rushibhawar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@rushike90063163" target="blank"><img src="https://img.shields.io/twitter/follow/@rushike90063163?logo=twitter&style=for-the-badge" alt="@rushike90063163" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rushike90063163?t=hqH-QTb8r9OhQT20r45qqA&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/@rushike90063163?logo=twitter&style=for-the-badge" alt="@rushike90063163" /></a> </p>
 
 - 🌱 I’m currently learning **Hibernate, Javascript**
 
-- 💬 Ask me about **Java **
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **rushikeshbhawargit@gmail.com**
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@rushike90063163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rushike90063163" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rushikesh bhavar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh bhavar" height="30" width="40" /></a>
+<a href="https://twitter.com/rushike90063163?t=PjGpixFnCAEoPZXnkXSLFQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rushike90063163" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rushikesh-bhavar-682266245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh bhavar" height="30" width="40" /></a>
 <a href="https://instagram.com/rushikesh_bhawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rushikesh_bhawar" height="30" width="40" /></a>
 </p>
 
