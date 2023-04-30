@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/rushike90063163?t=hqH-QTb8r9OhQT20r45qqA&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/@rushike90063163?logo=twitter&style=for-the-badge" alt="@rushike90063163" /></a> </p>
 
-- 🌱 I’m currently learning **Spring, Hibernate & Javascript**
+- 🌱 I’m currently learning **Spring Boot Microservices, React & Tailwind**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, Spring, Spring boot**
 
 - 📫 How to reach me **rushikeshbhawargit@gmail.com**
 
